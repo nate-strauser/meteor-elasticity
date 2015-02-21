@@ -4,7 +4,7 @@
 Package.describe({
 	'name'    : 'nothingisdead:elasticity',
 	'summary' : 'A customizable Elastic Search client with Blaze Components',
-	"version" : "1.0.0",
+	"version" : "1.0.0-1",
 	"git"     : "https://github.com/nothingisdead/meteor-elasticity.git"
 });
 
